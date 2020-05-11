@@ -40,3 +40,9 @@ All fields in the body are required to update an existing user.
 ### Delete an user
 URL = ``*/user/{id}``  
 ``id`` Is the unique identifier of the user in UUID format e.g. ``536ef671-41cc-4fd8-b6cc-f0d17ac501da``  
+
+# Sources
+Used for creating this application.
+https://www.novatec-gmbh.de/en/blog/creating-a-rest-application-with-ktor-and-exposed/
+Additional information about the Exposed ORM.
+https://github.com/JetBrains/Exposed/wiki/DSL
